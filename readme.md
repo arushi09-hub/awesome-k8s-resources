@@ -282,6 +282,7 @@ Items with :green_heart: indicate open source projects.
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) :fire::fire::fire::fire: - A cheatsheet containing many helpful kubectl commands
 - [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/) - A high-level overview of the basic types of resources provided by the Kubernetes API and their primary functions.  
 - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) - This tutorial provides a walkthrough of the basics of the Kubernetes cluster orchestration system.
+- [Let's Learn Kubernetes](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7) - A beginner level series fully dedicated on the concepts of Kubernetes.
 - [Play with Kubernetes](https://labs.play-with-k8s.com/) - Play with Kubernetes is a playground which allows users to run K8s clusters in a matter of seconds.
 - [Ready-to-use commands and tips for kubectl](https://blog.flant.com/ready-to-use-commands-and-tips-for-kubectl/) - Various kubectl tips and tricks by Flant’s engineers.  
 - [Running ZooKeeper, A Distributed System Coordinator](https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/) - This tutorial demonstrates running Apache Zookeeper on Kubernetes using StatefulSets, PodDisruptionBudgets, and PodAntiAffinity.
